@@ -1,7 +1,36 @@
 # 💫 BENDIBI - Barış Ayan
-[![Apple Teacher](https://i.hizliresim.com/h59ek99.png)](https://education.apple.com/forum/apple-groups/apple-teacher)
-<br>
-1998 model keyfe keder boyalı bir humanoidim.<br><br>2000'li yıllarda bilgisayarla fazlasıyla haşır neşir olup (NFS 2000 SE oynamak gibi) teknoloji denizinde ilk kulacı salladım.<br><br>Kırşehir Ahi Evran Üniversitesi'nde Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümünde lisans eğitimimi tamamladıktan sonra yine aynı bölümde Yüksek Lisans eğitimime başladım.<br><br>Bir çok kurumda Robotik Kodlama öğretmenliği, bir çok sosyal sorumluluk projesinde gönüllülük yaptım.<br><br>Şimdilerde Kırşehir'de Milli Eğitim Bakanlığına bağlı olan Uzay Akademi'de Kurucu Müdür & Robotik Kodlama Öğretmenliği yapmaktayım.<br><br>- 🔭 Uzay Akademi - Kurucu Müdür & Robotik Kodlama Öğretmeni<br>- 📚 Şu sıralar Raspberry Pi öğreniyorum.<br>- ⚡ Aşağıdaki bağlantı linklerinden bana ulaşabilirsiniz.<br><br><br>📽️ Teknolojik Cihazlar<br><br>🖥️ Masaüstü (Windows 11)<br><br>✔️Işlemci : Ryzen 7 2700x<br>✔️Ekran Kartı : MSI GTX1070 Gaming X 8GB.<br>✔️Anakart : Asus TUF X470-Plus Gaming<br>✔️Ram : GSKILL SniperX 16GB (2x8GB)<br>✔️Depolama : Samsung 970 Evo Plus M.2 SSD 500GB.<br>✔️Seagate Barracuda 2TB. 7200RPM<br>✔️Seagate Barracuda 1TB. 7200RPM<br>✔️Kasa : Cooler MasterMasterbox MB511<br>✔️PSU : Cooler Master Watt 80 Plus 600W.<br>✔️Sıvı Soğutma : Xigmatech Glace 240mm.<br>✔️Ekran : Acer Nitro QG241Ybii 23.8"<br>✔️Philips 4000Series Monitor/TV<br>✔️Klavye : Logitech G413 SE TKL<br>✔️Mouse : Logitech G G305 Lightspeed<br>✔️Kulaklık : HyperX Cloud 2<br>✔️Grafik Tablet : Viewsonic Woodpad 10<br><br><br>💻 Dizüstü<br><br>✔️ Apple MacBook Air 13" M1<br><br><br>📱 Tablet<br><br>✔️ Apple iPad 9<br>✔️ Apple Pencil 1. Nesil
+[![Apple Teacher](https://i.hizliresim.com/h59ek99.png)](https://education.apple.com/forum/apple-groups/apple-teacher)<br>
+1998 model keyfe keder boyalı bir humanoidim.<br><br>
+2000'li yıllarda bilgisayarla fazlasıyla haşır neşir olup (NFS 2000 SE oynamak gibi) teknoloji denizinde ilk kulacı salladım.<br><br>
+Kırşehir Ahi Evran Üniversitesi'nde Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümünde lisans eğitimimi tamamladıktan sonra yine aynı bölümde Yüksek Lisans eğitimime başladım.<br><br>
+Bir çok kurumda Robotik Kodlama öğretmenliği, bir çok sosyal sorumluluk projesinde gönüllülük yaptım.<br><br>
+Şimdilerde Kırşehir'de Milli Eğitim Bakanlığına bağlı olan Uzay Akademi'de Kurucu Müdür & Robotik Kodlama Öğretmenliği yapmaktayım.<br><br>
+- 🔭 Uzay Akademi - Kurucu Müdür & Robotik Kodlama Öğretmeni- <br>
+- 📚 Şu sıralar Raspberry Pi öğreniyorum.- <br>
+- ⚡ Aşağıdaki bağlantı linklerinden bana ulaşabilirsiniz.- <br><br><br>
+📽️ Teknolojik Cihazlar<br><br>
+🖥️ Masaüstü (Windows 11)<br><br>
+✔️Işlemci : Ryzen 7 2700x<br>
+✔️Ekran Kartı : MSI GTX1070 Gaming X 8GB.<br>
+✔️Anakart : Asus TUF X470-Plus Gaming<br>
+✔️Ram : GSKILL SniperX 16GB (2x8GB)<br>
+✔️Depolama : Samsung 970 Evo Plus M.2 SSD 500GB.<br>
+✔️Seagate Barracuda 2TB. 7200RPM<br>
+✔️Seagate Barracuda 1TB. 7200RPM<br>
+✔️Kasa : Cooler MasterMasterbox MB511<br>
+✔️PSU : Cooler Master Watt 80 Plus 600W.<br>
+✔️Sıvı Soğutma : Xigmatech Glace 240mm.<br>
+✔️Ekran : Acer Nitro QG241Ybii 23.8"<br>
+✔️Philips 4000Series Monitor/TV<br>
+✔️Klavye : Logitech K380<br>
+✔️Mouse : Logitech MX Master 3S<br>
+✔️Kulaklık : HyperX Cloud 2<br>
+✔️Grafik Tablet : Viewsonic Woodpad 10<br><br><br>
+💻 Dizüstü<br><br>
+✔️ Apple MacBook Air 15" M3<br><br><br>
+📱 Tablet<br><br>
+✔️ Apple iPad 9<br>
+✔️ Apple Pencil 1. Nesil
 
 
 ## 🌐 Sosyal Medya
