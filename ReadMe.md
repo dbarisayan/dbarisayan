@@ -1,8 +1,5 @@
 # 💫 BENDIBI - Barış Ayan
 [![Apple Teacher](https://i.hizliresim.com/h59ek99.png)](https://education.apple.com/forum/apple-groups/apple-teacher)<br>
-
-![](https://komarev.com/ghpvc/?username=dbarisayan&color=blue)
-
 1998 model keyfe keder boyalı bir humanoidim.<br><br>
 2000'li yıllarda bilgisayarla fazlasıyla haşır neşir olup (NFS 2000 SE oynamak gibi) teknoloji denizinde ilk kulacı salladım.<br><br>
 Kırşehir Ahi Evran Üniversitesi'nde Bilgisayar ve Öğretim Teknolojileri Eğitimi bölümünde lisans eğitimimi tamamladıktan sonra yine aynı bölümde Yüksek Lisans eğitimime başladım.<br><br>
