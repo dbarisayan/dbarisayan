@@ -11,9 +11,9 @@ Bir çok kurumda Robotik Kodlama öğretmenliği, bir çok sosyal sorumluluk pro
 📽️ Teknolojik Cihazlar<br><br>
 🖥️ Masaüstü (Windows 11)<br><br>
 ✔️Işlemci : Ryzen 7 2700x<br>
-✔️Ekran Kartı : MSI GTX1070 Gaming X 8GB.<br>
+✔️Ekran Kartı : MSI RTX3060 12GB.<br>
 ✔️Anakart : Asus TUF X470-Plus Gaming<br>
-✔️Ram : GSKILL SniperX 16GB (2x8GB)<br>
+✔️Ram : GSKILL RIPJAWS 32GB (2x8GB)<br>
 ✔️Depolama : Samsung 970 Evo Plus M.2 SSD 500GB.<br>
 ✔️Seagate Barracuda 2TB. 7200RPM<br>
 ✔️Seagate Barracuda 1TB. 7200RPM<br>
